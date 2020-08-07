@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/" />
+  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/2fe2033e4c6d078750f9d688a5a7416fb44abb04/" />
 
-  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/" />
+  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/2fe2033e4c6d078750f9d688a5a7416fb44abb04/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/2fe2033e4c6d078750f9d688a5a7416fb44abb04/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://jesuscapistran.github.io/mymanuscript/v/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc/))
+([permalink](https://jesuscapistran.github.io/mymanuscript/v/2fe2033e4c6d078750f9d688a5a7416fb44abb04/))
 was automatically generated
-from [jesuscapistran/mymanuscript@0964fd7](https://github.com/jesuscapistran/mymanuscript/tree/0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc)
+from [jesuscapistran/mymanuscript@2fe2033](https://github.com/jesuscapistran/mymanuscript/tree/2fe2033e4c6d078750f9d688a5a7416fb44abb04)
 on August 7, 2020.
 </em></small>
 
