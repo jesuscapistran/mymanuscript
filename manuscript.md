@@ -1,7 +1,7 @@
 ---
-title: 'Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation'
+title: Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells
 keywords:
-- Antimony Chalcogenides
+- Silver Antimony Chalcogenide
 - Thin films
 - Solar cells
 - Numerical simulation
@@ -16,10 +16,10 @@ header-includes: |-
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation" />
-  <meta name="citation_title" content="Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation" />
-  <meta property="og:title" content="Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation" />
-  <meta property="twitter:title" content="Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation" />
+  <meta name="dc.title" content="Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells" />
+  <meta name="citation_title" content="Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells" />
+  <meta property="og:title" content="Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells" />
+  <meta property="twitter:title" content="Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells" />
   <meta name="dc.date" content="2021-07-21" />
   <meta name="citation_publication_date" content="2021-07-21" />
   <meta name="dc.language" content="en-US" />
@@ -38,9 +38,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jesuscapistran.github.io/mymanuscript/" />
   <meta name="citation_pdf_url" content="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/" />
-  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/b9a2d8e30ab3c25fa678f5e63fd64de128d52968/" />
+  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/b9a2d8e30ab3c25fa678f5e63fd64de128d52968/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/b9a2d8e30ab3c25fa678f5e63fd64de128d52968/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,9 +62,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/))
+([permalink](https://jesuscapistran.github.io/mymanuscript/v/b9a2d8e30ab3c25fa678f5e63fd64de128d52968/))
 was automatically generated
-from [jesuscapistran/mymanuscript@e482f36](https://github.com/jesuscapistran/mymanuscript/tree/e482f36de49904be825023fda8e2cd4d80a9f614)
+from [jesuscapistran/mymanuscript@b9a2d8e](https://github.com/jesuscapistran/mymanuscript/tree/b9a2d8e30ab3c25fa678f5e63fd64de128d52968)
 on July 21, 2021.
 </em></small>
 
@@ -88,7 +88,11 @@ on July 21, 2021.
 
 ## Abstract {.page_break_before}
 
+Symposium: C7 Photovoltaics, Solar Energy Materials and Technologies  
+Congress participation: Virtual 
 
+
+The silver antimony sulfide-selenide – cubic-AgSb(S,Se)2 – is a potential p-type semiconductor for application in thin-film solar cells. In this work, we present perspectives of AgSb(S,Se)2 to develop high-efficiency solar cells using this cubic metal chalcogenide semiconductor. Material characterization of the AgSbS1.3Se0.7 solid solution confirms p-type conductivity with a bandgap of 1.48 eV and photoconductivity (σ) of 10-5 Ω-1 cm-1. The merit of incorporating silver atoms into the novel antimony chalcogenides (Sb2S3, Sb2Se3) comes from the transformation of orthorhombic structure into an FCC lattice, similar to that in rock salt structure. The absorption coefficient of α > 105 cm-1 in the visible region of solar radiation in AgSbS1.3Se0.7 allows a maximum photo-generated current density of 29 mA/cm2 for a 1µm thick film under standard air-mass 1.5 global (1000 W/m2) solar radiation. The thin film solar cells of CdS/AgSbS1.3Se0.7 heterojunction presents a fill factor of 0.64, open-circuit voltage of 537 mV, but a low short circuit current density of 2 mA/cm2.  At this stage, chemical deposition has served for prototyping the solar cells. Improvements are expected using industrial chalcogenide growth techniques, which would enhance their carrier collection. 
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.

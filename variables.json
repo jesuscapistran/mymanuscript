@@ -1,8 +1,8 @@
 {
   "pandoc": {
-    "title": "Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation",
+    "title": "Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells",
     "keywords": [
-      "Antimony Chalcogenides",
+      "Silver Antimony Chalcogenide",
       "Thin films",
       "Solar cells",
       "Numerical simulation",
@@ -13,7 +13,7 @@
     "author-meta": [
       "Jesús Capistrán-Martínez"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation\" />\n<meta name=\"citation_title\" content=\"Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation\" />\n<meta property=\"og:title\" content=\"Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation\" />\n<meta property=\"twitter:title\" content=\"Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation\" />\n<meta name=\"dc.date\" content=\"2021-07-21\" />\n<meta name=\"citation_publication_date\" content=\"2021-07-21\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Jesús Capistrán-Martínez\" />\n<meta name=\"citation_author_institution\" content=\"Renewable Energy Institute, National Autonomous University of Mexico - UNAM\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8555-5440\" />\n<meta name=\"twitter:creator\" content=\"@capis\" />\n<link rel=\"canonical\" href=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta property=\"og:url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta property=\"twitter:url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jesuscapistran.github.io/mymanuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jesuscapistran.github.io/mymanuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells\" />\n<meta name=\"citation_title\" content=\"Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells\" />\n<meta property=\"og:title\" content=\"Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells\" />\n<meta property=\"twitter:title\" content=\"Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells\" />\n<meta name=\"dc.date\" content=\"2021-07-21\" />\n<meta name=\"citation_publication_date\" content=\"2021-07-21\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Jesús Capistrán-Martínez\" />\n<meta name=\"citation_author_institution\" content=\"Renewable Energy Institute, National Autonomous University of Mexico - UNAM\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8555-5440\" />\n<meta name=\"twitter:creator\" content=\"@capis\" />\n<link rel=\"canonical\" href=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta property=\"og:url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta property=\"twitter:url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jesuscapistran.github.io/mymanuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jesuscapistran.github.io/mymanuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jesuscapistran.github.io/mymanuscript/v/b9a2d8e30ab3c25fa678f5e63fd64de128d52968/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jesuscapistran.github.io/mymanuscript/v/b9a2d8e30ab3c25fa678f5e63fd64de128d52968/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jesuscapistran.github.io/mymanuscript/v/b9a2d8e30ab3c25fa678f5e63fd64de128d52968/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -54,19 +54,19 @@
       "repo_slug": "jesuscapistran/mymanuscript",
       "repo_owner": "jesuscapistran",
       "repo_name": "mymanuscript",
-      "commit": "e482f36de49904be825023fda8e2cd4d80a9f614",
-      "triggering_commit": "e482f36de49904be825023fda8e2cd4d80a9f614",
-      "build_url": "https://github.com/jesuscapistran/mymanuscript/commit/e482f36de49904be825023fda8e2cd4d80a9f614/checks",
+      "commit": "b9a2d8e30ab3c25fa678f5e63fd64de128d52968",
+      "triggering_commit": "b9a2d8e30ab3c25fa678f5e63fd64de128d52968",
+      "build_url": "https://github.com/jesuscapistran/mymanuscript/commit/b9a2d8e30ab3c25fa678f5e63fd64de128d52968/checks",
       "job_url": "https://github.com/jesuscapistran/mymanuscript/runs/__run_3"
     },
     "html_url": "https://jesuscapistran.github.io/mymanuscript/",
     "pdf_url": "https://jesuscapistran.github.io/mymanuscript/manuscript.pdf",
-    "html_url_versioned": "https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/",
-    "pdf_url_versioned": "https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/manuscript.pdf",
+    "html_url_versioned": "https://jesuscapistran.github.io/mymanuscript/v/b9a2d8e30ab3c25fa678f5e63fd64de128d52968/",
+    "pdf_url_versioned": "https://jesuscapistran.github.io/mymanuscript/v/b9a2d8e30ab3c25fa678f5e63fd64de128d52968/manuscript.pdf",
     "manubot_version": "0.5.1",
     "rootstock_commit": "defe787b0ad8a21a745cc82c3117770896caaf8b",
     "manuscript_stats": {
-      "word_count": 1404
+      "word_count": 1601
     }
   }
 }
