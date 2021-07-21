@@ -38,9 +38,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jesuscapistran.github.io/mymanuscript/" />
   <meta name="citation_pdf_url" content="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/b9a2d8e30ab3c25fa678f5e63fd64de128d52968/" />
-  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/b9a2d8e30ab3c25fa678f5e63fd64de128d52968/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/b9a2d8e30ab3c25fa678f5e63fd64de128d52968/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/1f675eeb654c31dc2356d670ca78e8c3c5580788/" />
+  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/1f675eeb654c31dc2356d670ca78e8c3c5580788/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/1f675eeb654c31dc2356d670ca78e8c3c5580788/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,9 +62,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jesuscapistran.github.io/mymanuscript/v/b9a2d8e30ab3c25fa678f5e63fd64de128d52968/))
+([permalink](https://jesuscapistran.github.io/mymanuscript/v/1f675eeb654c31dc2356d670ca78e8c3c5580788/))
 was automatically generated
-from [jesuscapistran/mymanuscript@b9a2d8e](https://github.com/jesuscapistran/mymanuscript/tree/b9a2d8e30ab3c25fa678f5e63fd64de128d52968)
+from [jesuscapistran/mymanuscript@1f675ee](https://github.com/jesuscapistran/mymanuscript/tree/1f675eeb654c31dc2356d670ca78e8c3c5580788)
 on July 21, 2021.
 </em></small>
 
@@ -88,11 +88,22 @@ on July 21, 2021.
 
 ## Abstract {.page_break_before}
 
-Symposium: C7 Photovoltaics, Solar Energy Materials and Technologies  
-Congress participation: Virtual 
+
+**Symposium:** C7 Photovoltaics, Solar Energy Materials and Technologies  
+**Congress participation:** Virtual 
 
 
-The silver antimony sulfide-selenide – cubic-AgSb(S,Se)2 – is a potential p-type semiconductor for application in thin-film solar cells. In this work, we present perspectives of AgSb(S,Se)2 to develop high-efficiency solar cells using this cubic metal chalcogenide semiconductor. Material characterization of the AgSbS1.3Se0.7 solid solution confirms p-type conductivity with a bandgap of 1.48 eV and photoconductivity (σ) of 10-5 Ω-1 cm-1. The merit of incorporating silver atoms into the novel antimony chalcogenides (Sb2S3, Sb2Se3) comes from the transformation of orthorhombic structure into an FCC lattice, similar to that in rock salt structure. The absorption coefficient of α > 105 cm-1 in the visible region of solar radiation in AgSbS1.3Se0.7 allows a maximum photo-generated current density of 29 mA/cm2 for a 1µm thick film under standard air-mass 1.5 global (1000 W/m2) solar radiation. The thin film solar cells of CdS/AgSbS1.3Se0.7 heterojunction presents a fill factor of 0.64, open-circuit voltage of 537 mV, but a low short circuit current density of 2 mA/cm2.  At this stage, chemical deposition has served for prototyping the solar cells. Improvements are expected using industrial chalcogenide growth techniques, which would enhance their carrier collection. 
+* The silver antimony sulfide-selenide – cubic-$AgSb(S,Se)_2$ is a potential p-type semiconductor for application in thin-film solar cells. In this work, we present perspectives of $AgSb(S,Se)_2$ to develop high-efficiency solar cells using this cubic metal chalcogenide semiconductor.
+
+* Material characterization of the $AgSbS_{1.3}Se_{0.7}$ solid solution confirms p-type conductivity with a bandgap of 1.48 eV and photoconductivity $(\sigma$) of $10^5$  $\Omega^{-1} \text{cm}^{-1}$. 
+
+* The merit of incorporating silver atoms into the novel antimony chalcogenides ($Sb_2S_3$, $Sb_2Se_3$) comes from the transformation of orthorhombic structure into an FCC lattice, similar to that in rock salt structure.
+
+* The absorption coefficient of $\alpha > 10^5 \text{cm}^{-1}$ in the visible region of solar radiation in $AgSbS_{1.3}Se_{0.7}$ allows a maximum photo-generated current density of 29 ${\text{mA}}/{\text{cm}^2}$ for a 1 $\mu\text{m}$ thick film under standard air-mass 1.5 global (1000 W/m2) solar radiation. 
+ 
+* The thin film solar cells of CdS/$AgSbS_{1.3}Se_{0.7}$ heterojunction presents a fill factor of 0.64, open-circuit voltage of 537 mV, but a low short circuit current density of 2 mA/$\text{cm}^2$. 
+
+*  At this stage, chemical deposition has served for prototyping the solar cells. Improvements are expected using industrial chalcogenide growth techniques, which would enhance their carrier collection. 
 
 
 This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
