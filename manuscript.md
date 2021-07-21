@@ -1,24 +1,25 @@
 ---
-title: Manuscript Title
+title: 'Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation'
 keywords:
-- markdown
-- publishing
-- manubot
+- Antimony Chalcogenides
+- Thin films
+- Solar cells
+- Numerical simulation
+- Scaps-1D
 lang: en-US
 date-meta: '2021-07-21'
 author-meta:
-- John Doe
-- Jane Roe
+- Jesús Capistrán-Martínez
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation" />
+  <meta name="citation_title" content="Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation" />
+  <meta property="og:title" content="Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation" />
+  <meta property="twitter:title" content="Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation" />
   <meta name="dc.date" content="2021-07-21" />
   <meta name="citation_publication_date" content="2021-07-21" />
   <meta name="dc.language" content="en-US" />
@@ -27,23 +28,19 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Jesús Capistrán-Martínez" />
+  <meta name="citation_author_institution" content="Renewable Energy Institute, National Autonomous University of Mexico - UNAM" />
+  <meta name="citation_author_orcid" content="0000-0001-8555-5440" />
+  <meta name="twitter:creator" content="@capis" />
   <link rel="canonical" href="https://jesuscapistran.github.io/mymanuscript/" />
   <meta property="og:url" content="https://jesuscapistran.github.io/mymanuscript/" />
   <meta property="twitter:url" content="https://jesuscapistran.github.io/mymanuscript/" />
   <meta name="citation_fulltext_html_url" content="https://jesuscapistran.github.io/mymanuscript/" />
   <meta name="citation_pdf_url" content="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/32b4e96ee54159232903d9599a2e41ef97b1feee/" />
-  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/32b4e96ee54159232903d9599a2e41ef97b1feee/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/32b4e96ee54159232903d9599a2e41ef97b1feee/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/" />
+  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +62,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jesuscapistran.github.io/mymanuscript/v/32b4e96ee54159232903d9599a2e41ef97b1feee/))
+([permalink](https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/))
 was automatically generated
-from [jesuscapistran/mymanuscript@32b4e96](https://github.com/jesuscapistran/mymanuscript/tree/32b4e96ee54159232903d9599a2e41ef97b1feee)
+from [jesuscapistran/mymanuscript@e482f36](https://github.com/jesuscapistran/mymanuscript/tree/e482f36de49904be825023fda8e2cd4d80a9f614)
 on July 21, 2021.
 </em></small>
 
@@ -75,25 +72,16 @@ on July 21, 2021.
 
 
 
-+ **John Doe**<br>
++ **Jesús Capistrán-Martínez**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0001-8555-5440](https://orcid.org/0000-0001-8555-5440)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [jesuscapistran](https://github.com/jesuscapistran)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [capis](https://twitter.com/capis)<br>
   <small>
-     Department of Something, University of Whatever
+     Renewable Energy Institute, National Autonomous University of Mexico - UNAM
      · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
 

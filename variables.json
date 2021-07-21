@@ -1,18 +1,19 @@
 {
   "pandoc": {
-    "title": "Manuscript Title",
+    "title": "Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation",
     "keywords": [
-      "markdown",
-      "publishing",
-      "manubot"
+      "Antimony Chalcogenides",
+      "Thin films",
+      "Solar cells",
+      "Numerical simulation",
+      "Scaps-1D"
     ],
     "lang": "en-US",
     "date-meta": "2021-07-21",
     "author-meta": [
-      "John Doe",
-      "Jane Roe"
+      "Jesús Capistrán-Martínez"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2021-07-21\" />\n<meta name=\"citation_publication_date\" content=\"2021-07-21\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta property=\"og:url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta property=\"twitter:url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jesuscapistran.github.io/mymanuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jesuscapistran.github.io/mymanuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jesuscapistran.github.io/mymanuscript/v/32b4e96ee54159232903d9599a2e41ef97b1feee/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jesuscapistran.github.io/mymanuscript/v/32b4e96ee54159232903d9599a2e41ef97b1feee/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jesuscapistran.github.io/mymanuscript/v/32b4e96ee54159232903d9599a2e41ef97b1feee/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation\" />\n<meta name=\"citation_title\" content=\"Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation\" />\n<meta property=\"og:title\" content=\"Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation\" />\n<meta property=\"twitter:title\" content=\"Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation\" />\n<meta name=\"dc.date\" content=\"2021-07-21\" />\n<meta name=\"citation_publication_date\" content=\"2021-07-21\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Jesús Capistrán-Martínez\" />\n<meta name=\"citation_author_institution\" content=\"Renewable Energy Institute, National Autonomous University of Mexico - UNAM\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8555-5440\" />\n<meta name=\"twitter:creator\" content=\"@capis\" />\n<link rel=\"canonical\" href=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta property=\"og:url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta property=\"twitter:url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jesuscapistran.github.io/mymanuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jesuscapistran.github.io/mymanuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -25,14 +26,14 @@
     "date": "July 21, 2021",
     "authors": [
       {
-        "github": "johndoe",
-        "name": "John Doe",
-        "initials": "JD",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "twitter": "johndoe",
-        "email": "john.doe@something.com",
+        "github": "jesuscapistran",
+        "name": "Jesús Capistrán-Martínez",
+        "initials": "JCM",
+        "orcid": "0000-0001-8555-5440",
+        "twitter": "capis",
+        "email": "capistran@gmail.com",
         "affiliations": [
-          "Department of Something, University of Whatever"
+          "Renewable Energy Institute, National Autonomous University of Mexico - UNAM"
         ],
         "funders": [
           "Grant XXXXXXXX"
@@ -40,31 +41,12 @@
         "affiliation_numbers": [
           1
         ]
-      },
-      {
-        "github": "janeroe",
-        "name": "Jane Roe",
-        "initials": "JR",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "jane.roe@whatever.edu",
-        "affiliations": [
-          "Department of Something, University of Whatever",
-          "Department of Whatever, University of Something"
-        ],
-        "affiliation_numbers": [
-          1,
-          2
-        ]
       }
     ],
     "affiliations": [
       {
-        "affiliation": "Department of Something, University of Whatever",
+        "affiliation": "Renewable Energy Institute, National Autonomous University of Mexico - UNAM",
         "affiliation_number": 1
-      },
-      {
-        "affiliation": "Department of Whatever, University of Something",
-        "affiliation_number": 2
       }
     ],
     "ci_source": {
@@ -72,15 +54,15 @@
       "repo_slug": "jesuscapistran/mymanuscript",
       "repo_owner": "jesuscapistran",
       "repo_name": "mymanuscript",
-      "commit": "32b4e96ee54159232903d9599a2e41ef97b1feee",
-      "triggering_commit": "32b4e96ee54159232903d9599a2e41ef97b1feee",
-      "build_url": "https://github.com/jesuscapistran/mymanuscript/commit/32b4e96ee54159232903d9599a2e41ef97b1feee/checks",
+      "commit": "e482f36de49904be825023fda8e2cd4d80a9f614",
+      "triggering_commit": "e482f36de49904be825023fda8e2cd4d80a9f614",
+      "build_url": "https://github.com/jesuscapistran/mymanuscript/commit/e482f36de49904be825023fda8e2cd4d80a9f614/checks",
       "job_url": "https://github.com/jesuscapistran/mymanuscript/runs/__run_3"
     },
     "html_url": "https://jesuscapistran.github.io/mymanuscript/",
     "pdf_url": "https://jesuscapistran.github.io/mymanuscript/manuscript.pdf",
-    "html_url_versioned": "https://jesuscapistran.github.io/mymanuscript/v/32b4e96ee54159232903d9599a2e41ef97b1feee/",
-    "pdf_url_versioned": "https://jesuscapistran.github.io/mymanuscript/v/32b4e96ee54159232903d9599a2e41ef97b1feee/manuscript.pdf",
+    "html_url_versioned": "https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/",
+    "pdf_url_versioned": "https://jesuscapistran.github.io/mymanuscript/v/e482f36de49904be825023fda8e2cd4d80a9f614/manuscript.pdf",
     "manubot_version": "0.5.1",
     "rootstock_commit": "defe787b0ad8a21a745cc82c3117770896caaf8b",
     "manuscript_stats": {
