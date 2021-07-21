@@ -1,26 +1,20 @@
 ---
-title: "Manuscript Title"
+title: "Buffer layer analysis in copper antimony sulfide solar cell: A SCAPS-1D numerical simulation"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - Antimony Chalcogenides
+  - Thin films
+  - Solar cells
+  - Numerical simulation
+  - Scaps-1D
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - github: jesuscapistran
+    name: Jesús Capistrán-Martínez
+    initials: JCM
+    orcid: 0000-0001-8555-5440
+    twitter: capis
+    email: capistran@gmail.com
     affiliations:
-      - Department of Something, University of Whatever
+      - Renewable Energy Institute, National Autonomous University of Mexico - UNAM
     funders:
       - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
-    affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
