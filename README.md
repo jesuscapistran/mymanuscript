@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/jesuscapistran/mymanuscript/tree/gh-pages) branch hosts the contents of this directory at <https://jesuscapistran.github.io/mymanuscript/>.
-The permalink for this webpage version is <https://jesuscapistran.github.io/mymanuscript/v/defe787b0ad8a21a745cc82c3117770896caaf8b/>.
+The permalink for this webpage version is <https://jesuscapistran.github.io/mymanuscript/v/32b4e96ee54159232903d9599a2e41ef97b1feee/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://jesuscapistran.github.io/mymanuscript/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`defe787b0ad8a21a745cc82c3117770896caaf8b`](https://github.com/jesuscapistran/mymanuscript/commit/defe787b0ad8a21a745cc82c3117770896caaf8b).
+[`32b4e96ee54159232903d9599a2e41ef97b1feee`](https://github.com/jesuscapistran/mymanuscript/commit/32b4e96ee54159232903d9599a2e41ef97b1feee).
