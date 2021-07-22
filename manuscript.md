@@ -7,7 +7,7 @@ keywords:
 - Numerical simulation
 - Scaps-1D
 lang: en-US
-date-meta: '2021-07-21'
+date-meta: '2021-07-22'
 author-meta:
 - Jesús Capistrán-Martínez
 header-includes: |-
@@ -20,8 +20,8 @@ header-includes: |-
   <meta name="citation_title" content="Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells" />
   <meta property="og:title" content="Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells" />
   <meta property="twitter:title" content="Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells" />
-  <meta name="dc.date" content="2021-07-21" />
-  <meta name="citation_publication_date" content="2021-07-21" />
+  <meta name="dc.date" content="2021-07-22" />
+  <meta name="citation_publication_date" content="2021-07-22" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -38,9 +38,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jesuscapistran.github.io/mymanuscript/" />
   <meta name="citation_pdf_url" content="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/1f675eeb654c31dc2356d670ca78e8c3c5580788/" />
-  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/1f675eeb654c31dc2356d670ca78e8c3c5580788/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/1f675eeb654c31dc2356d670ca78e8c3c5580788/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/a233bc86ea6ada4aefb205e2c56187b293a68ae6/" />
+  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/a233bc86ea6ada4aefb205e2c56187b293a68ae6/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/a233bc86ea6ada4aefb205e2c56187b293a68ae6/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,10 +62,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jesuscapistran.github.io/mymanuscript/v/1f675eeb654c31dc2356d670ca78e8c3c5580788/))
+([permalink](https://jesuscapistran.github.io/mymanuscript/v/a233bc86ea6ada4aefb205e2c56187b293a68ae6/))
 was automatically generated
-from [jesuscapistran/mymanuscript@1f675ee](https://github.com/jesuscapistran/mymanuscript/tree/1f675eeb654c31dc2356d670ca78e8c3c5580788)
-on July 21, 2021.
+from [jesuscapistran/mymanuscript@a233bc8](https://github.com/jesuscapistran/mymanuscript/tree/a233bc86ea6ada4aefb205e2c56187b293a68ae6)
+on July 22, 2021.
 </em></small>
 
 ## Authors
@@ -90,7 +90,7 @@ on July 21, 2021.
 
 
 **Symposium:** C7 Photovoltaics, Solar Energy Materials and Technologies  
-**Congress participation:** Virtual 
+**Congress participation:** Virtual Poster Session
 
 
 * The silver antimony sulfide-selenide – cubic-$AgSb(S,Se)_2$ is a potential p-type semiconductor for application in thin-film solar cells. In this work, we present perspectives of $AgSb(S,Se)_2$ to develop high-efficiency solar cells using this cubic metal chalcogenide semiconductor.
@@ -100,7 +100,7 @@ on July 21, 2021.
 * The merit of incorporating silver atoms into the novel antimony chalcogenides ($Sb_2S_3$, $Sb_2Se_3$) comes from the transformation of orthorhombic structure into an FCC lattice, similar to that in rock salt structure.
 
 * The absorption coefficient of $\alpha > 10^5 \text{cm}^{-1}$ in the visible region of solar radiation in $AgSbS_{1.3}Se_{0.7}$ allows a maximum photo-generated current density of 29 ${\text{mA}}/{\text{cm}^2}$ for a 1 $\mu\text{m}$ thick film under standard air-mass 1.5 global (1000 W/m2) solar radiation. 
- 
+
 * The thin film solar cells of CdS/$AgSbS_{1.3}Se_{0.7}$ heterojunction presents a fill factor of 0.64, open-circuit voltage of 537 mV, but a low short circuit current density of 2 mA/$\text{cm}^2$. 
 
 *  At this stage, chemical deposition has served for prototyping the solar cells. Improvements are expected using industrial chalcogenide growth techniques, which would enhance their carrier collection. 
