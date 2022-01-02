@@ -9,7 +9,6 @@ keywords:
 lang: en-US
 date-meta: '2022-01-02'
 author-meta:
-- Jesús Capistrán-Martínez
 - Roman Romano Trujillo
 header-includes: |-
   <!--
@@ -29,10 +28,6 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="Jesús Capistrán-Martínez" />
-  <meta name="citation_author_institution" content="Renewable Energy Institute - UNAM" />
-  <meta name="citation_author_orcid" content="0000-0001-8555-5440" />
-  <meta name="twitter:creator" content="@capis" />
   <meta name="citation_author" content="Roman Romano Trujillo" />
   <meta name="citation_author_institution" content="Centro de Investigaciones en Dispositivos Semiconductores - BUAP" />
   <meta name="citation_author_orcid" content="0000-0001-8824-025X" />
@@ -42,9 +37,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jesuscapistran.github.io/mymanuscript/" />
   <meta name="citation_pdf_url" content="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/b259751fe78d506abce80a28caf5259b96c38a05/" />
-  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/b259751fe78d506abce80a28caf5259b96c38a05/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/b259751fe78d506abce80a28caf5259b96c38a05/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/f4b095ef2dcb67f6d73de7dbb7c214b121d49b08/" />
+  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/f4b095ef2dcb67f6d73de7dbb7c214b121d49b08/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/f4b095ef2dcb67f6d73de7dbb7c214b121d49b08/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,27 +61,15 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jesuscapistran.github.io/mymanuscript/v/b259751fe78d506abce80a28caf5259b96c38a05/))
+([permalink](https://jesuscapistran.github.io/mymanuscript/v/f4b095ef2dcb67f6d73de7dbb7c214b121d49b08/))
 was automatically generated
-from [jesuscapistran/mymanuscript@b259751](https://github.com/jesuscapistran/mymanuscript/tree/b259751fe78d506abce80a28caf5259b96c38a05)
+from [jesuscapistran/mymanuscript@f4b095e](https://github.com/jesuscapistran/mymanuscript/tree/f4b095ef2dcb67f6d73de7dbb7c214b121d49b08)
 on January 2, 2022.
 </em></small>
 
 ## Authors
 
 
-
-+ **Jesús Capistrán-Martínez**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [0000-0001-8555-5440](https://orcid.org/0000-0001-8555-5440)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [jesuscapistran](https://github.com/jesuscapistran)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [capis](https://twitter.com/capis)<br>
-  <small>
-     Renewable Energy Institute - UNAM
-     · Funded by Grant XXXXXXXX
-  </small>
 
 + **Roman Romano Trujillo**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
