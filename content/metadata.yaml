@@ -13,8 +13,17 @@ authors:
     initials: JCM
     orcid: 0000-0001-8555-5440
     twitter: capis
-    email: capistran@gmail.com
+    email: jecam@ier.unam.mx
     affiliations:
-      - Renewable Energy Institute, National Autonomous University of Mexico - UNAM
+      - Renewable Energy Institute - UNAM
     funders:
       - Grant XXXXXXXX
+
+  - name: Roman Romano Trujillo
+    initials: RRT
+    orcid: 0000-0001-8824-025X
+    email: roman.romano@correo.buap.mx
+    affiliations: 
+      - Centro de Investigaciones en Dispositivos Semiconductores - BUAP
+    funders:
+        - Grant XXXXXXXX
