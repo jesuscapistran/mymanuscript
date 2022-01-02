@@ -1,5 +1,7 @@
 bandgap
 BUAP
+capis
+Capistrán
 Centro
 chalcogenide
 chalcogenides
@@ -7,10 +9,14 @@ Dispositivos
 eV
 heterojunction
 Investigaciones
+Jesús
+jesuscapistran
+Martínez
 mV
 orthorhombic
 photoconductivity
 Photovoltaics
 selenide
 Semiconductores
+UNAM
 XXXXXXXX
