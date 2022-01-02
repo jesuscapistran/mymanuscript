@@ -11,9 +11,10 @@
     "lang": "en-US",
     "date-meta": "2022-01-02",
     "author-meta": [
-      "Jesús Capistrán-Martínez"
+      "Jesús Capistrán-Martínez",
+      "Roman Romano Trujillo"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells\" />\n<meta name=\"citation_title\" content=\"Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells\" />\n<meta property=\"og:title\" content=\"Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells\" />\n<meta property=\"twitter:title\" content=\"Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells\" />\n<meta name=\"dc.date\" content=\"2022-01-02\" />\n<meta name=\"citation_publication_date\" content=\"2022-01-02\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Jesús Capistrán-Martínez\" />\n<meta name=\"citation_author_institution\" content=\"Renewable Energy Institute, National Autonomous University of Mexico - UNAM\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8555-5440\" />\n<meta name=\"twitter:creator\" content=\"@capis\" />\n<link rel=\"canonical\" href=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta property=\"og:url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta property=\"twitter:url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jesuscapistran.github.io/mymanuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jesuscapistran.github.io/mymanuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jesuscapistran.github.io/mymanuscript/v/fcbce97c7ff397af84759f1d8d297d5036b249e5/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jesuscapistran.github.io/mymanuscript/v/fcbce97c7ff397af84759f1d8d297d5036b249e5/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jesuscapistran.github.io/mymanuscript/v/fcbce97c7ff397af84759f1d8d297d5036b249e5/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells\" />\n<meta name=\"citation_title\" content=\"Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells\" />\n<meta property=\"og:title\" content=\"Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells\" />\n<meta property=\"twitter:title\" content=\"Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells\" />\n<meta name=\"dc.date\" content=\"2022-01-02\" />\n<meta name=\"citation_publication_date\" content=\"2022-01-02\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Jesús Capistrán-Martínez\" />\n<meta name=\"citation_author_institution\" content=\"Renewable Energy Institute - UNAM\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8555-5440\" />\n<meta name=\"twitter:creator\" content=\"@capis\" />\n<meta name=\"citation_author\" content=\"Roman Romano Trujillo\" />\n<meta name=\"citation_author_institution\" content=\"Centro de Investigaciones en Dispositivos Semiconductores - BUAP\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-8824-025X\" />\n<link rel=\"canonical\" href=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta property=\"og:url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta property=\"twitter:url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://jesuscapistran.github.io/mymanuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://jesuscapistran.github.io/mymanuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://jesuscapistran.github.io/mymanuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://jesuscapistran.github.io/mymanuscript/v/b259751fe78d506abce80a28caf5259b96c38a05/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://jesuscapistran.github.io/mymanuscript/v/b259751fe78d506abce80a28caf5259b96c38a05/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://jesuscapistran.github.io/mymanuscript/v/b259751fe78d506abce80a28caf5259b96c38a05/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -31,9 +32,9 @@
         "initials": "JCM",
         "orcid": "0000-0001-8555-5440",
         "twitter": "capis",
-        "email": "capistran@gmail.com",
+        "email": "jecam@ier.unam.mx",
         "affiliations": [
-          "Renewable Energy Institute, National Autonomous University of Mexico - UNAM"
+          "Renewable Energy Institute - UNAM"
         ],
         "funders": [
           "Grant XXXXXXXX"
@@ -41,12 +42,31 @@
         "affiliation_numbers": [
           1
         ]
+      },
+      {
+        "name": "Roman Romano Trujillo",
+        "initials": "RRT",
+        "orcid": "0000-0001-8824-025X",
+        "email": "roman.romano@correo.buap.mx",
+        "affiliations": [
+          "Centro de Investigaciones en Dispositivos Semiconductores - BUAP"
+        ],
+        "funders": [
+          "Grant XXXXXXXX"
+        ],
+        "affiliation_numbers": [
+          2
+        ]
       }
     ],
     "affiliations": [
       {
-        "affiliation": "Renewable Energy Institute, National Autonomous University of Mexico - UNAM",
+        "affiliation": "Renewable Energy Institute - UNAM",
         "affiliation_number": 1
+      },
+      {
+        "affiliation": "Centro de Investigaciones en Dispositivos Semiconductores - BUAP",
+        "affiliation_number": 2
       }
     ],
     "ci_source": {
@@ -54,15 +74,15 @@
       "repo_slug": "jesuscapistran/mymanuscript",
       "repo_owner": "jesuscapistran",
       "repo_name": "mymanuscript",
-      "commit": "fcbce97c7ff397af84759f1d8d297d5036b249e5",
-      "triggering_commit": "fcbce97c7ff397af84759f1d8d297d5036b249e5",
-      "build_url": "https://github.com/jesuscapistran/mymanuscript/commit/fcbce97c7ff397af84759f1d8d297d5036b249e5/checks",
+      "commit": "b259751fe78d506abce80a28caf5259b96c38a05",
+      "triggering_commit": "b259751fe78d506abce80a28caf5259b96c38a05",
+      "build_url": "https://github.com/jesuscapistran/mymanuscript/commit/b259751fe78d506abce80a28caf5259b96c38a05/checks",
       "job_url": "https://github.com/jesuscapistran/mymanuscript/runs/__run_3"
     },
     "html_url": "https://jesuscapistran.github.io/mymanuscript/",
     "pdf_url": "https://jesuscapistran.github.io/mymanuscript/manuscript.pdf",
-    "html_url_versioned": "https://jesuscapistran.github.io/mymanuscript/v/fcbce97c7ff397af84759f1d8d297d5036b249e5/",
-    "pdf_url_versioned": "https://jesuscapistran.github.io/mymanuscript/v/fcbce97c7ff397af84759f1d8d297d5036b249e5/manuscript.pdf",
+    "html_url_versioned": "https://jesuscapistran.github.io/mymanuscript/v/b259751fe78d506abce80a28caf5259b96c38a05/",
+    "pdf_url_versioned": "https://jesuscapistran.github.io/mymanuscript/v/b259751fe78d506abce80a28caf5259b96c38a05/manuscript.pdf",
     "manubot_version": "0.5.1",
     "rootstock_commit": "defe787b0ad8a21a745cc82c3117770896caaf8b",
     "manuscript_stats": {
