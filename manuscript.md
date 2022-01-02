@@ -38,9 +38,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jesuscapistran.github.io/mymanuscript/" />
   <meta name="citation_pdf_url" content="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/f360d67bbedeee150465f4a35b87c465bc3022f5/" />
-  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/f360d67bbedeee150465f4a35b87c465bc3022f5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/f360d67bbedeee150465f4a35b87c465bc3022f5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/fcbce97c7ff397af84759f1d8d297d5036b249e5/" />
+  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/fcbce97c7ff397af84759f1d8d297d5036b249e5/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/fcbce97c7ff397af84759f1d8d297d5036b249e5/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -62,9 +62,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jesuscapistran.github.io/mymanuscript/v/f360d67bbedeee150465f4a35b87c465bc3022f5/))
+([permalink](https://jesuscapistran.github.io/mymanuscript/v/fcbce97c7ff397af84759f1d8d297d5036b249e5/))
 was automatically generated
-from [jesuscapistran/mymanuscript@f360d67](https://github.com/jesuscapistran/mymanuscript/tree/f360d67bbedeee150465f4a35b87c465bc3022f5)
+from [jesuscapistran/mymanuscript@fcbce97](https://github.com/jesuscapistran/mymanuscript/tree/fcbce97c7ff397af84759f1d8d297d5036b249e5)
 on January 2, 2022.
 </em></small>
 
@@ -88,8 +88,8 @@ on January 2, 2022.
 
 ## Abstract {.page_break_before}
 
-**Symposium:** C7 Photovoltaics, Solar Energy Materials and Technologies  
-**Congress participation:** Virtual Poster
+**Symposium:** C7 Photovoltaics, Solar Energy Materials and, Technologies  
+**Congress mode:** Virtual Poster
 
 **URL:** <https://jesuscapistran.com/courses/silver-antimony-sulfide-selenide/>
 
