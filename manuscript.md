@@ -42,9 +42,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jesuscapistran.github.io/mymanuscript/" />
   <meta name="citation_pdf_url" content="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/7836718a1761ce53a668adbaab5bea9d058c6ca2/" />
-  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/7836718a1761ce53a668adbaab5bea9d058c6ca2/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/7836718a1761ce53a668adbaab5bea9d058c6ca2/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/9317895dbb01e49f1ba6888ae11684341a1294e7/" />
+  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/9317895dbb01e49f1ba6888ae11684341a1294e7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/9317895dbb01e49f1ba6888ae11684341a1294e7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jesuscapistran.github.io/mymanuscript/v/7836718a1761ce53a668adbaab5bea9d058c6ca2/))
+([permalink](https://jesuscapistran.github.io/mymanuscript/v/9317895dbb01e49f1ba6888ae11684341a1294e7/))
 was automatically generated
-from [jesuscapistran/mymanuscript@7836718](https://github.com/jesuscapistran/mymanuscript/tree/7836718a1761ce53a668adbaab5bea9d058c6ca2)
+from [jesuscapistran/mymanuscript@9317895](https://github.com/jesuscapistran/mymanuscript/tree/9317895dbb01e49f1ba6888ae11684341a1294e7)
 on January 7, 2022.
 </em></small>
 
@@ -100,7 +100,7 @@ on January 7, 2022.
 ## Abstract {.page_break_before}
 
 **Symposium:** C7 Photovoltaics, Solar Energy Materials and, Technologies  
-**Congress mode:** Virtual Poster
+**Modality:** Virtual Poster
 
 **URL:** <https://jesuscapistran.com/courses/silver-antimony-sulfide-selenide/>
 
@@ -115,7 +115,6 @@ on January 7, 2022.
 * The thin film solar cells of CdS/$AgSbS_{1.3}Se_{0.7}$ heterojunction presents a fill factor of 0.64, open-circuit voltage of 537 mV, but a low short circuit current density of 2 mA/$\text{cm}^2$.
 
 * At this stage, chemical deposition has served for prototyping the solar cells. Improvements are expected using industrial chalcogenide growth techniques, which would enhance their carrier collection.
-
 
 
 ## References {.page_break_before}
