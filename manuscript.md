@@ -42,9 +42,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jesuscapistran.github.io/mymanuscript/" />
   <meta name="citation_pdf_url" content="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/38512c2abec6b1c470528dc2dec246548154246e/" />
-  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/38512c2abec6b1c470528dc2dec246548154246e/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/38512c2abec6b1c470528dc2dec246548154246e/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/0ea8c40383eb57b9f569812b35b276f73438a7e4/" />
+  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/0ea8c40383eb57b9f569812b35b276f73438a7e4/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/0ea8c40383eb57b9f569812b35b276f73438a7e4/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jesuscapistran.github.io/mymanuscript/v/38512c2abec6b1c470528dc2dec246548154246e/))
+([permalink](https://jesuscapistran.github.io/mymanuscript/v/0ea8c40383eb57b9f569812b35b276f73438a7e4/))
 was automatically generated
-from [jesuscapistran/mymanuscript@38512c2](https://github.com/jesuscapistran/mymanuscript/tree/38512c2abec6b1c470528dc2dec246548154246e)
+from [jesuscapistran/mymanuscript@0ea8c40](https://github.com/jesuscapistran/mymanuscript/tree/0ea8c40383eb57b9f569812b35b276f73438a7e4)
 on January 7, 2022.
 </em></small>
 
@@ -100,8 +100,7 @@ on January 7, 2022.
 ## Abstract {.page_break_before}
 
 The following text use **Semantic Linefeeds**
-as shown by Brandon Rhodes in the following link:
-https://rhodesmill.org/brandon/2012/one-sentence-per-line
+as shown by Brandon Rhodes in the following link: https://rhodesmill.org/brandon/2012/one-sentence-per-line
 
 The thin film solar cells of CdS/$AgSbS_{1.3}Se_{0.7}$
 presents a high fill factor of 0.64,
