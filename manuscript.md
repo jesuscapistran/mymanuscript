@@ -42,9 +42,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jesuscapistran.github.io/mymanuscript/" />
   <meta name="citation_pdf_url" content="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/eaf290d26c60245873d76d1dd4e19fb142779630/" />
-  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/eaf290d26c60245873d76d1dd4e19fb142779630/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/eaf290d26c60245873d76d1dd4e19fb142779630/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/d3374756cb50afd0a525d48455476ad95ec03b07/" />
+  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/d3374756cb50afd0a525d48455476ad95ec03b07/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/d3374756cb50afd0a525d48455476ad95ec03b07/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jesuscapistran.github.io/mymanuscript/v/eaf290d26c60245873d76d1dd4e19fb142779630/))
+([permalink](https://jesuscapistran.github.io/mymanuscript/v/d3374756cb50afd0a525d48455476ad95ec03b07/))
 was automatically generated
-from [jesuscapistran/mymanuscript@eaf290d](https://github.com/jesuscapistran/mymanuscript/tree/eaf290d26c60245873d76d1dd4e19fb142779630)
+from [jesuscapistran/mymanuscript@d337475](https://github.com/jesuscapistran/mymanuscript/tree/d3374756cb50afd0a525d48455476ad95ec03b07)
 on January 7, 2022.
 </em></small>
 
@@ -117,7 +117,14 @@ on January 7, 2022.
 * At this stage, chemical deposition has served for prototyping the solar cells. Improvements are expected using industrial chalcogenide growth techniques, which would enhance their carrier collection.
 
 * $\sqrt{a+b^2}$
+
 * $\sigma = 2\times10^{-8} \, \Omega^{-1}cm^{-1}$
+
+
+## Introduction {.page_break_before}
+
+
+The antimony chalcogenides are present in the development of thin-film solar cells, now we can observe thThe antimony chalcogenides are present in the development of thin-film solar cells, now we can observe thThe antimony chalcogenides are present in the development of thin-film solar cells, now we can observe The antimony chalcogenides are present in the development of thin-film solar cells, now we can observe thThe antimony chalcogenides are present in the development of thin-film solar cells, now we can observe thThe antimony chalcogenides are present in the development of thin-film solar cells, now we can observe
 
 
 ## References {.page_break_before}
