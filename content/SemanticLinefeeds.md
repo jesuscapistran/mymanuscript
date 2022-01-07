@@ -1,0 +1,185 @@
+---
+categories: Python, Computing, Document-processing
+date: 2012/04/03 01:25:09
+permalink: http://rhodesmill.org/brandon/2012/one-sentence-per-line/
+title: Semantic Linefeeds
+---
+
+I give some advice each year
+in my annual `Sphinx <http://sphinx.pocoo.org/>`_ tutorial
+at `PyCon <https://us.pycon.org/>`_.
+A grateful student asked where I myself had learned the tip.
+I have done some archæology and finally have an answer.
+Let me share what I teach them about “semantic linefeeds,”
+then I will reveal its source —
+which turns out to have been written
+when I was only a few months old!
+
+In the tutorial,
+I ask students whether or not
+the Sphinx text files in their project will be read by end-users.
+If not, then I encourage students to treat the files
+as private “source code” that they are free to format semantically.
+Instead of fussing with the lines of each paragraph
+so that they all end near the right margin,
+they can add linefeeds anywhere
+that there is a break between ideas.
+
+The result can be spectacular.
+
+.. raw:: html
+
+   <!--more-->
+
+By starting a new line at the end of each sentence,
+and splitting sentences themselves at natural breaks between clauses,
+a text file becomes far easier to edit and version control.
+Text editors are very good at manipulating lines —
+so when each sentence is a contiguous block of lines,
+your editor suddenly becomes a very powerful mechanism
+for quickly rearranging clauses and ideas.
+
+And your version-control system will *love* semantic linefeeds.
+Have you ever changed a few words at the beginning of a paragraph,
+only to discover that version control
+now thinks the whole text has changed?
+
+::
+
+    #!diff
+     ...
+     the definition in place of it.
+
+    -The beauteous scheme is that now, if you change
+    -your mind about what a paragraph should look
+    -like, you can change the formatted output merely
+    -by changing the definition of ‘‘.PP’’ and
+    -re-running the formatter.
+    +The beauty of this scheme is that now, if you
+    +change your mind about what a paragraph should
+    +look like, you can change the formatted output
+    +merely by changing the definition of ‘‘.PP’’
+    +and re-running the formatter.
+
+     As a rule of thumb, for all but the most
+     ...
+
+With every sentence and clause on its own line,
+you can make exactly the same change to the same paragraph
+without the rest of the paragraph even noticing::
+
+    #!diff
+     ...
+     the definition in place of it.
+
+    -The beauteous scheme is that now,
+    +The beauty of this scheme is that now,
+     if you change your mind
+     about what a paragraph should look like,
+     you can change the formatted output
+     merely by changing
+     the definition of ‘‘.PP’’
+     and re-running the formatter.
+
+     As a rule of thumb, for all but the most
+     ...
+
+“Semantic linefeeds,” as I call them,
+have been making my life easier for more than twenty years,
+and have governed how my text files look behind-the-scenes
+whether my markup format is HTML,
+`TeX <http://en.wikipedia.org/wiki/TeX>`_,
+`RST <http://docutils.sourceforge.net/rst.html>`_,
+or the venerable ``troff`` macro typesetter.
+
+So where did I learn the trick?
+
+For a long time I believed that my source must have been
+the UNIX Documenter's Workbench manual.
+The Workbench was an attempt by AT&T
+to market the operating system
+that had become such a cult hit internally
+among Bell Labs engineers,
+by bundling the system with its most powerful typesetting tools.
+The attempt failed, of course —
+I am told that AT&T was terrible at marketing computers,
+just as Xerox had no idea what to do
+with the ideas that were bubbling at PARC in the 1970s —
+but my father worked at Bell Labs
+and had a copy of the Workbench documentation around the house.
+(I cannot find a copy on the Internet —
+were all public copies destroyed
+during the devastating copyright battle
+that justly brought SCO to its ruin?)
+
+But after an extensive search,
+I have found an earlier source —
+and I could not be any happier to discover
+that my inspiration is none other than 
+`Brian W. Kernighan <http://www.cs.princeton.edu/~bwk/>`_!
+
+He published “UNIX for Beginners”
+`[PDF] <https://web.archive.org/web/20130108163017if_/http://miffy.tom-yam.or.jp:80/2238/ref/beg.pdf>`_
+as Bell Labs Technical Memorandum 74-1273-18
+on 29 October 1974.
+It describes a far more primitive version of the operating system
+than his more famous and more widely available
+“UNIX for Beginners — Second Edition” from 1978.
+After a long search I have found the lone copy linked above,
+hosted on an obscure Japanese web page about
+`UNIX 6th Edition <https://web.archive.org/web/20130107033411/http://miffy.tom-yam.or.jp:80/2238/ref/>`_
+which has now disappeared
+but can still be viewed on the Internet Archive’s Wayback Machine
+(to which both of the links above point).
+In the section “Hints for Preparing Documents,”
+Kernighan shares this wisdom:
+
+ **Hints for Preparing Documents**
+
+ Most documents go through several versions
+ (always more than you expected)
+ before they are finally finished.
+ Accordingly, you should do whatever possible
+ to make the job of changing them easy.
+
+ First, when you do the purely mechanical operations of typing,
+ type so subsequent editing will be easy.
+ Start each sentence on a new line.
+ Make lines short,
+ and break lines at natural places,
+ such as after commas and semicolons,
+ rather than randomly.
+ Since most people change documents by rewriting phrases
+ and adding, deleting and rearranging sentences,
+ these precautions simplify any editing you have to do later.
+
+ *— Brian W. Kernighan, 1974*
+
+Note how Pythonic his advice sounds —
+he replaces the fiction of “write-once” documents
+with a realistic focus on making text
+that is easy to edit later!
+
+I must have read this when I was first learning UNIX
+and somehow carried it with me all of these years.
+It says something very powerful
+about the UNIX plain-text approach
+that advice given in 1974,
+and basically targeted at making text
+easier to edit in the terribly cramped ``ed`` text editor,
+applies just as well to our modern world
+of colorful full-screen editors like Emacs and Vim
+and distributed version control systems
+that were not even imagined in the 1970s.
+
+If you are interested in more early UNIX documentation —
+including the Second Edition of Kernighan's “Beginners” guide —
+check out the
+`7th Edition manuals <https://s3.amazonaws.com/plan9-bell-labs/7thEdMan/index.html>`_
+which Bell Labs has kindly made available online,
+both as
+`PDF files <https://s3.amazonaws.com/plan9-bell-labs/7thEdMan/bswv7.html>`_
+and also as plain-text files marked up for the ``troff`` typesetter.
+Note that you can still compile the ``troff`` files
+successfully on a modern system —
+try *that* with any other richly-formatted text from the 1970s!
