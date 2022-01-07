@@ -7,7 +7,7 @@ keywords:
 - Numerical simulation
 - Scaps-1D
 lang: en-US
-date-meta: '2022-01-02'
+date-meta: '2022-01-07'
 author-meta:
 - Jesús Capistrán-Martínez
 - Roman Romano Trujillo
@@ -21,8 +21,8 @@ header-includes: |-
   <meta name="citation_title" content="Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells" />
   <meta property="og:title" content="Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells" />
   <meta property="twitter:title" content="Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells" />
-  <meta name="dc.date" content="2022-01-02" />
-  <meta name="citation_publication_date" content="2022-01-02" />
+  <meta name="dc.date" content="2022-01-07" />
+  <meta name="citation_publication_date" content="2022-01-07" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jesuscapistran.github.io/mymanuscript/" />
   <meta name="citation_pdf_url" content="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/41dc8befe0886ebcfe319b8c5a23c46d3ae5ef00/" />
-  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/41dc8befe0886ebcfe319b8c5a23c46d3ae5ef00/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/41dc8befe0886ebcfe319b8c5a23c46d3ae5ef00/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/7836718a1761ce53a668adbaab5bea9d058c6ca2/" />
+  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/7836718a1761ce53a668adbaab5bea9d058c6ca2/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/7836718a1761ce53a668adbaab5bea9d058c6ca2/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jesuscapistran.github.io/mymanuscript/v/41dc8befe0886ebcfe319b8c5a23c46d3ae5ef00/))
+([permalink](https://jesuscapistran.github.io/mymanuscript/v/7836718a1761ce53a668adbaab5bea9d058c6ca2/))
 was automatically generated
-from [jesuscapistran/mymanuscript@41dc8be](https://github.com/jesuscapistran/mymanuscript/tree/41dc8befe0886ebcfe319b8c5a23c46d3ae5ef00)
-on January 2, 2022.
+from [jesuscapistran/mymanuscript@7836718](https://github.com/jesuscapistran/mymanuscript/tree/7836718a1761ce53a668adbaab5bea9d058c6ca2)
+on January 7, 2022.
 </em></small>
 
 ## Authors
@@ -115,6 +115,7 @@ on January 2, 2022.
 * The thin film solar cells of CdS/$AgSbS_{1.3}Se_{0.7}$ heterojunction presents a fill factor of 0.64, open-circuit voltage of 537 mV, but a low short circuit current density of 2 mA/$\text{cm}^2$.
 
 * At this stage, chemical deposition has served for prototyping the solar cells. Improvements are expected using industrial chalcogenide growth techniques, which would enhance their carrier collection.
+
 
 
 ## References {.page_break_before}
