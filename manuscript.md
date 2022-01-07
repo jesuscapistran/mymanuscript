@@ -42,9 +42,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jesuscapistran.github.io/mymanuscript/" />
   <meta name="citation_pdf_url" content="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/d3374756cb50afd0a525d48455476ad95ec03b07/" />
-  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/d3374756cb50afd0a525d48455476ad95ec03b07/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/d3374756cb50afd0a525d48455476ad95ec03b07/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/38512c2abec6b1c470528dc2dec246548154246e/" />
+  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/38512c2abec6b1c470528dc2dec246548154246e/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/38512c2abec6b1c470528dc2dec246548154246e/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,9 +66,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jesuscapistran.github.io/mymanuscript/v/d3374756cb50afd0a525d48455476ad95ec03b07/))
+([permalink](https://jesuscapistran.github.io/mymanuscript/v/38512c2abec6b1c470528dc2dec246548154246e/))
 was automatically generated
-from [jesuscapistran/mymanuscript@d337475](https://github.com/jesuscapistran/mymanuscript/tree/d3374756cb50afd0a525d48455476ad95ec03b07)
+from [jesuscapistran/mymanuscript@38512c2](https://github.com/jesuscapistran/mymanuscript/tree/38512c2abec6b1c470528dc2dec246548154246e)
 on January 7, 2022.
 </em></small>
 
@@ -99,30 +99,16 @@ on January 7, 2022.
 
 ## Abstract {.page_break_before}
 
-**Symposium:** C7 Photovoltaics, Solar Energy Materials and, Technologies  
-**Modality:** Virtual Poster
+The following text use **Semantic Linefeeds**
+as shown by Brandon Rhodes in the following link:
+https://rhodesmill.org/brandon/2012/one-sentence-per-line
 
-**URL:** <https://jesuscapistran.com/courses/silver-antimony-sulfide-selenide/>
-
-* The silver antimony sulfide-selenide – cubic-$AgSb(S,Se)_2$ is a potential p-type semiconductor for application in thin-film solar cells. In this work, we present perspectives of $AgSb(S,Se)_2$ to develop high-efficiency solar cells using this cubic metal chalcogenide semiconductor.
-
-* Material characterization of the $AgSbS_{1.3}Se_{0.7}$ solid solution confirms p-type conductivity with a bandgap of 1.48 eV and photoconductivity $(\sigma$) of $10^5$  $\Omega^{-1} \text{cm}^{-1}$.
-
-* The merit of incorporating silver atoms into the novel antimony chalcogenides ($Sb_2S_3$, $Sb_2Se_3$) comes from the transformation of orthorhombic structure into an FCC lattice, similar to that in rock salt structure.
-
-* The absorption coefficient of $\alpha > 10^5 \text{cm}^{-1}$ in the visible region of solar radiation in $AgSbS_{1.3}Se_{0.7}$ allows a maximum photo-generated current density of 29 ${\text{mA}}/{\text{cm}^2}$ for a 1 $\mu\text{m}$ thick film under standard air-mass 1.5 global (1000 W/m2) solar radiation.
-
-* The thin film solar cells of CdS/$AgSbS_{1.3}Se_{0.7}$ heterojunction presents a fill factor of 0.64, open-circuit voltage of 537 mV, but a low short circuit current density of 2 mA/$\text{cm}^2$.
-
-* At this stage, chemical deposition has served for prototyping the solar cells. Improvements are expected using industrial chalcogenide growth techniques, which would enhance their carrier collection.
-
-* $\sqrt{a+b^2}$
-
-* $\sigma = 2\times10^{-8} \, \Omega^{-1}cm^{-1}$
-
+The thin film solar cells of CdS/$AgSbS_{1.3}Se_{0.7}$
+presents a high fill factor of 0.64,
+open-circuit voltage of 537 mV,
+but a low short circuit current density of 2 mA/$\text{cm}^2$.
 
 ## Introduction {.page_break_before}
-
 
 The antimony chalcogenides are present in the development of thin-film solar cells, now we can observe thThe antimony chalcogenides are present in the development of thin-film solar cells, now we can observe thThe antimony chalcogenides are present in the development of thin-film solar cells, now we can observe The antimony chalcogenides are present in the development of thin-film solar cells, now we can observe thThe antimony chalcogenides are present in the development of thin-film solar cells, now we can observe thThe antimony chalcogenides are present in the development of thin-film solar cells, now we can observe
 
