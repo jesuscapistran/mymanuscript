@@ -7,7 +7,7 @@ keywords:
 - Numerical simulation
 - Scaps-1D
 lang: en-US
-date-meta: '2022-01-07'
+date-meta: '2022-01-08'
 author-meta:
 - Jesús Capistrán-Martínez
 - Roman Romano Trujillo
@@ -21,8 +21,8 @@ header-includes: |-
   <meta name="citation_title" content="Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells" />
   <meta property="og:title" content="Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells" />
   <meta property="twitter:title" content="Perspectives on the merits of cubic silver antimony sulfide-selenide thin films for solar cells" />
-  <meta name="dc.date" content="2022-01-07" />
-  <meta name="citation_publication_date" content="2022-01-07" />
+  <meta name="dc.date" content="2022-01-08" />
+  <meta name="citation_publication_date" content="2022-01-08" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -42,9 +42,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://jesuscapistran.github.io/mymanuscript/" />
   <meta name="citation_pdf_url" content="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://jesuscapistran.github.io/mymanuscript/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/0ea8c40383eb57b9f569812b35b276f73438a7e4/" />
-  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/0ea8c40383eb57b9f569812b35b276f73438a7e4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/0ea8c40383eb57b9f569812b35b276f73438a7e4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://jesuscapistran.github.io/mymanuscript/v/6a6487e163cd4319e98ad84f01906a360f817143/" />
+  <meta name="manubot_html_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/6a6487e163cd4319e98ad84f01906a360f817143/" />
+  <meta name="manubot_pdf_url_versioned" content="https://jesuscapistran.github.io/mymanuscript/v/6a6487e163cd4319e98ad84f01906a360f817143/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -66,10 +66,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://jesuscapistran.github.io/mymanuscript/v/0ea8c40383eb57b9f569812b35b276f73438a7e4/))
+([permalink](https://jesuscapistran.github.io/mymanuscript/v/6a6487e163cd4319e98ad84f01906a360f817143/))
 was automatically generated
-from [jesuscapistran/mymanuscript@0ea8c40](https://github.com/jesuscapistran/mymanuscript/tree/0ea8c40383eb57b9f569812b35b276f73438a7e4)
-on January 7, 2022.
+from [jesuscapistran/mymanuscript@6a6487e](https://github.com/jesuscapistran/mymanuscript/tree/6a6487e163cd4319e98ad84f01906a360f817143)
+on January 8, 2022.
 </em></small>
 
 ## Authors
